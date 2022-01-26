@@ -1,5 +1,15 @@
 .slider-height{
     height: 550px;
     width: 400px;
-
 }
+.my-caption{
+    background: rgba(0,0,0,0.2);
+    position: absolute;
+    bottom: 200px;
+}
+.h-40{height: 40px}
+.h-50{height: 50px}
+.h-200{height: 200px}
+.h-250{height: 250px}
+.h-400{height: 400px}
+.h-600{height: 600px}
